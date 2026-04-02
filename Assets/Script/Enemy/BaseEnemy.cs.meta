@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e902315ec2dd954a86cf2269af02474
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GuidedMissile: {fileID: 5205364674880038505, guid: 29c656021cf16054da26c3f6a102cbac, type: 3}
+  - Howitzer: {fileID: 6726879610701429720, guid: ac0ccc875d0c79e40a5122bbf9bf1750, type: 3}
+  - HighSpeedBomb: {fileID: 39679785364987303, guid: c76b9629208250b42ba1cc6018aebdb1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
